@@ -1,2 +1,1 @@
-Greedy Algorithm is your best buddy in coding.
-I love Batman
+This is Text File 
