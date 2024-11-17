@@ -1,1 +1,2 @@
-Greedy Algorithm is your best buddy in coding 
+Greedy Algorithm is your best buddy in coding.
+I love Batman
